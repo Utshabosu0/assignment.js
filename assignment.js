@@ -17,9 +17,9 @@ console.log(result);
 
 
 
-// Budget calculator.
+// Budget calculate
 function budgetcalculator(num1, num2, num3) {
-    // how many things need. 
+    // how many things need
     var watch = num1 * 500;
     var phone = num2 * 10000;
     var laptop = num3 * 50000;
